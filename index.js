@@ -1,8 +1,8 @@
-      const pingu  = require('./scripts/pingu')
+      const pingu  = require('./scripts/duokan')
     //const wpsdaka  = require('./scripts/wps_invite')
     //const everphoto  = require('./scripts/everphoto')
    
-     signList = [pingu] 
+     signList = [duokan] 
     start(signList)
     async function start(task) {
     console.log('开始签到任务')          
