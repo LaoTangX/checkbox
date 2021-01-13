@@ -1,4 +1,4 @@
-      const pingu  = require('./scripts/duokan')
+      const duokan  = require('./scripts/duokan')
     //const wpsdaka  = require('./scripts/wps_invite')
     //const everphoto  = require('./scripts/everphoto')
    
